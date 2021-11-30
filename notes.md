@@ -32,6 +32,9 @@ This EXCEPT operator example returns all product_id values that are in the produ
 Share link to drawIO on how to query information using a many to many relationship. 
 
 What would be the result of the Group By clause without an aggregate function. 
+  
+What is the difference between text and string fields ?
+https://nation.marketo.com/t5/knowledgebase/the-difference-between-a-field-type-of-string-and-text/ta-p/250347
 
 ## Week 3 
  ## videos to share
@@ -41,8 +44,6 @@ What would be the result of the Group By clause without an aggregate function.
   Flask Many-To-Many relationships
   https://youtu.be/OvhoYbjtiKc
 
-  What is the difference between text and string fields ?
-  https://nation.marketo.com/t5/knowledgebase/the-difference-between-a-field-type-of-string-and-text/ta-p/250347
   
 ## Week 4
  ## Links to share
@@ -51,6 +52,16 @@ What would be the result of the Group By clause without an aggregate function.
 
  Resume builder
  https://novoresume.com/
+
+ As cool as indexing a db is . I think we should also learn about when NOT to use indexes.
+ When Should We Avoid Using Indexes?
+ The purpose of indexes is to enhance a database’s performance, there are multiple scenarios where indexes should not be used.
+ Indexes should not be used on tables containing few records.
+ Tables that have frequent, large batch updates or insert operations.
+ Indexes should not be used on columns that contain a high number of NULL values.
+ Indexes should not be used on the columns that are frequently manipulated. 
+  
+ https://medium.com/javarevisited/indexes-when-to-use-and-when-to-avoid-them-39c56e5a7329
 
    
 
