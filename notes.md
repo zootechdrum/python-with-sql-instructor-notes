@@ -44,6 +44,9 @@ https://nation.marketo.com/t5/knowledgebase/the-difference-between-a-field-type-
   Flask Many-To-Many relationships
   https://youtu.be/OvhoYbjtiKc
 
+## Links to share
+  Documentation on how to build one to many and many to many relationships in flask. 
+
   
 ## Week 4
  ## Links to share
