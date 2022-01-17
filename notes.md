@@ -21,6 +21,15 @@
 ## Week 2
  ### Videos to share
     -- None to share
+ 
+ What is the difference between full outer join and union in SQL
+ https://www.quora.com/What-is-the-difference-between-full-outer-join-and-union-in-SQL
+ 
+ Great book to read 
+ https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/ref=mp_s_a_1_3?crid=2KN9ZF59JXDLH&keywords=common+sense+algorithms&qid=1642283839&sprefix=common+sense+al%2Caps%2C163&sr=8-3
+ 
+ -- The pragrammtic programmer. 
+ 
 
  ### Quiz questions for week 2
  A very powerful statement in sql is the ```GROUP BY``` clause. This can be used with or without an aggregate function.
