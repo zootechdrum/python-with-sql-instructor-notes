@@ -15,6 +15,10 @@
     What is the difference between Truncate and the Delete command in SQL ?
 
     Why would a table use it's primary key as a foreign key to itself ?
+    
+    ## Facebook ER Diagram. 
+    This is what Facebooks ER diagram used to look like. I thought it would be interesting to share with you all here. 
+    https://i.stack.imgur.com/o0hVv.jpg
 
 
 
