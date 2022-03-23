@@ -19,6 +19,13 @@
     ## Facebook ER Diagram. 
     This is what Facebooks ER diagram used to look like. I thought it would be interesting to share with you all here. 
     https://i.stack.imgur.com/o0hVv.jpg
+    
+  ### Wednesday check on students prompt.
+    Hello again! 
+    Each Wednesday I try and make the effort to check up on everyone. Did you have any questions for me? The first 2 weeks are the meat and potatoes of this course. I     would highly recommend you try your best to attend the first 2 Saturdays. Furthermore, please have your environment ready before Saturday’s class. 
+    If for whatever reason you are encountering issues setting up your environment, please use the general Python-SQL channel on Slack and our class specific channel       for help in answering any question you might have. 
+    Happy coding!
+
 
 
 
