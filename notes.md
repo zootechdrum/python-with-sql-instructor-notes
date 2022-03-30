@@ -56,6 +56,9 @@ What would be the result of the Group By clause without an aggregate function.
 What is the difference between text and string fields ?
 https://nation.marketo.com/t5/knowledgebase/the-difference-between-a-field-type-of-string-and-text/ta-p/250347
 
+## Wednesday student prompt.
+It’s that time of the week again! How are you? How is the learning going? Remember this week and last week are some of the most important concepts you will learn in this class. If you have a strong understanding of SQL, the rest of the concepts that we go over should be easier to grasp. Take your time and digest the material. 
+
 ## Week 3 
  ## videos to share
   Flask SQL_Alchemy one to many relationships. 
