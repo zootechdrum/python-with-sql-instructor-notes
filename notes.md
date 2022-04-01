@@ -44,7 +44,7 @@
 
  ### Quiz questions for week 2
  A very powerful statement in sql is the ```GROUP BY``` clause. This can be used with or without an aggregate function.
-What must appear in the GROUP BY clause in order for it to work? What role does an aggregate function play when used with a GROUP BY clause?
+What must appear in the GROUP BY clause in order for it to work as expected? What role does an aggregate function play when used with a GROUP BY clause?
 
 What does the ```EXCEPT``` operator do ?
 This EXCEPT operator example returns all product_id values that are in the products table and not in the inventory table. What this means is that if a product_id value existed in the products table and also existed in the inventory table, the product_id value would not appear in the EXCEPT query results.
