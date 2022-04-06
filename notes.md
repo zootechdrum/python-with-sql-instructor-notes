@@ -74,6 +74,10 @@ It’s that time of the week again! How are you? How is the learning going? Reme
 
 In our models file we have a Tweet class. Inside of that class we also have a likes attribute. The likes attribute is responsible for setting a relationship between our users class and our join table called likes_table. If we were to loop over our likes attribute in our tweet class we would be able to get a list of users who liked that tweet. This is possible due to our secondary relationship we specified likes_table. The backref in likes also does something auto magical . The backref 'liked_tweets' gives the Users class a temporary column called liked_tweets. Now if we wanted to find all of the tweets a User has liked, we can loop over the liked_tweets attribute that is now created behind the scenes in SqlAlchemy. For example we can do 
 
+## Student Prompts
+Happy Wednesday! How are you enjoying this week’s content so far? 
+Out of all 4 weeks, this week is my favorite to teach. I believe this week gives students a well-rounded view of how a production application work. The API’s we build this week is pretty much what you will be doing as a backend or full stack developer (if you choose to go down these 2 paths). 
+
 ```python
 for t in u.liked_tweets:
 ```
