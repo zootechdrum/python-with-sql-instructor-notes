@@ -101,5 +101,10 @@ for t in u.liked_tweets:
   
  https://medium.com/javarevisited/indexes-when-to-use-and-when-to-avoid-them-39c56e5a7329
 
+
+Wow, Thursday already? Where is the time going. Only a few more days until our last workshop. How sad/exciting. One of the things I always recommend students do before they leave my class is to created a LinkedIn profile. Every other bootcamp required it, I don’t see why it should be any different here. Please if you have the time this week it’s time to create one or brush it up with your new skills. 
+
+Did you have any questions for me? How can I help you achieve success? 
+
    
 
